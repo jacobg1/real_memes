@@ -1,6 +1,6 @@
 # text_2_pix_client
 
-deployed app: https://jacobg1.github.io/text_2_pix_client
+deployed app: https://jacobg1.github.io/real_memes/#/memes
 
 link to rails API repo: https://github.com/jacobg1/text_2_pix_server
 API address: https://meme-gen-api.herokuapp.com/memes
